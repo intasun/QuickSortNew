@@ -1,0 +1,7 @@
+C:\Users\Hewlett-Packard\Desktop\C#\Материалы\Практика. Решение\Homework01-QuickSort\Homework01-QuickSort\bin\Debug\Homework01-QuickSort.exe.config
+C:\Users\Hewlett-Packard\Desktop\C#\Материалы\Практика. Решение\Homework01-QuickSort\Homework01-QuickSort\bin\Debug\Homework01-QuickSort.exe
+C:\Users\Hewlett-Packard\Desktop\C#\Материалы\Практика. Решение\Homework01-QuickSort\Homework01-QuickSort\bin\Debug\Homework01-QuickSort.pdb
+C:\Users\Hewlett-Packard\Desktop\C#\Материалы\Практика. Решение\Homework01-QuickSort\Homework01-QuickSort\obj\Debug\Homework01-QuickSort.csprojResolveAssemblyReference.cache
+C:\Users\Hewlett-Packard\Desktop\C#\Материалы\Практика. Решение\Homework01-QuickSort\Homework01-QuickSort\obj\Debug\Homework01-QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett-Packard\Desktop\C#\Материалы\Практика. Решение\Homework01-QuickSort\Homework01-QuickSort\obj\Debug\Homework01-QuickSort.exe
+C:\Users\Hewlett-Packard\Desktop\C#\Материалы\Практика. Решение\Homework01-QuickSort\Homework01-QuickSort\obj\Debug\Homework01-QuickSort.pdb
